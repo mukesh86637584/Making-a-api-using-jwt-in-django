@@ -1,4 +1,4 @@
-# Making-a-api-using-jwt-in-django
+# Making an api using jwt in django
 
 First go to convenient location in your system.  
 For example i created this project in drive F: and first i created a folder and i gave a name it (jwt).  
